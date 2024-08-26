@@ -63,7 +63,7 @@ body {
 }
 
 .app {
-  background-image: url(/img/wite.jpg);
+  background-image: url(img/wite.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   display: block;
